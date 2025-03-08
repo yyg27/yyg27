@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <h1>Hello 👋, I'm Yiğit.</h1>
 </p>
 
