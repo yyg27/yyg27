@@ -1,7 +1,5 @@
-# Hello 👋, I'm Yiğit.
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlpdTFvbDd1cTdhYzZ5c2o2bGx4Zmt1bzZrNmRmamQ5bjlyZnEzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)" width="600">
+#<p align="center">
+  <h1>Hello 👋, I'm Yiğit.</h1>
 </p>
 
 
