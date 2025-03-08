@@ -1,4 +1,5 @@
-# Hello, I'am Yiğit
+# Hello, I'am Yiğit!
+Welcome to my page..
 
 # 💫 About Me:
 //Junior Web Developer<br><br>Currently learning Data Science
