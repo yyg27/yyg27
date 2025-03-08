@@ -1,4 +1,4 @@
-#Hello 👋, I'm Yiğit.
+# Hello 👋, I'm Yiğit.
 Welcome to this one’s page, traveler. May your road lead you to warm sands and your code bring you many riches. If you seek knowledge, you are in the right place—Khajiit has commits, if you have curiosity
 # 💫 About Me:
 //Junior Web Developer<br><br>Currently learning Data Science and Game Development
