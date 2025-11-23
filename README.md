@@ -1,4 +1,5 @@
 
+
 # Hello there, I'm Yiğit
 Welcome to this one’s page, traveler. May your road lead you to warm sands and your code bring you many riches. If you seek knowledge, you are in the right place—Khajiit has commits, if you have curiosity
 #  About Me:
@@ -15,4 +16,4 @@ Welcome to this one’s page, traveler. May your road lead you to warm sands and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyg27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## I USE &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=80 width=/ > &nbsp;BTW 
+## I USE &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=40 width=/ > &nbsp;BTW 
