@@ -15,5 +15,3 @@ Welcome to this one’s page, traveler. May your road lead you to warm sands and
 ![](https://nirzak-streak-stats.vercel.app/?user=yyg27&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyg27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## I USE &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=40 width=/ > &nbsp;BTW 
-
