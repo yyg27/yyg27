@@ -29,14 +29,22 @@ Welcome to this one’s page, traveler. May your road lead you to warm sands and
 
 # GitHub Stats:
 
+# GitHub Stats:
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yyg27&theme=dracula" height="180"/>
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=yyg27&show_icons=true&theme=dracula"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yyg27&layout=donut&theme=dracula"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yyg27&show_icons=true&theme=dracula" height="180"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yyg27&layout=compact&theme=dracula" height="180"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=yyg27&theme=dracula"
+    height="180"
+  />
 </p>
