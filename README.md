@@ -29,8 +29,6 @@ Welcome to this one’s page, traveler. May your road lead you to warm sands and
 
 # GitHub Stats:
 
-# GitHub Stats:
-
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=yyg27&show_icons=true&theme=dracula"
