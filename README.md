@@ -25,8 +25,18 @@ Welcome to this one’s page, traveler. May your road lead you to warm sands and
 
 ###  Systems, DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-#  GitHub Stats:
-![yyg27's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yyg27&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yyg27&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yyg27&theme=dracula)
 
+
+# GitHub Stats:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yyg27&theme=dracula" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yyg27&show_icons=true&theme=dracula" height="180"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yyg27&layout=compact&theme=dracula" height="180"/>
+</p>
